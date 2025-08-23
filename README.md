@@ -1,42 +1,41 @@
-<h1 align="center">Hey there! 👋 I'm Sean-Maxx</h1>
+# 👋 Hey, I'm Sean-Maxx
 
-<p align="center">
-  🚀 Welcome to my corner of GitHub!<br>
-  🧠 Lifelong learner | 💻 Aspiring dev | 🌐 Tech enthusiast
-</p>
+🚀 Welcome to my GitHub profile!  
+💻 Aspiring developer | 🌐 Tech enthusiast | 🧠 Always learning  
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 
-- 🔭 Currently diving deep into the world of **software development**
-- 🌱 Constantly learning new tools, languages, and frameworks
-- 🧩 Passionate about solving problems and building cool things
-- 🎯 Always aiming to grow, improve, and create value
-
----
-
-### 🛠️ Programming Language Experience
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- 🔭 Currently exploring the world of **software development**
+- 🌱 Learning new languages, tools, and best practices
+- 🛠️ Focused on writing clean, efficient code
+- 💬 Open to collaboration and cool project ideas
 
 ---
 
-### 📊 GitHub Stats
+## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sean-Maxx&show_icons=true&theme=radical" alt="Sean-Maxx's GitHub stats" />
-</p>
+### Languages & Tools I Use:
 
----
-
-### ⚡ Fun Fact
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ---
 
-<p align="center">
-  🧠 Stay curious, keep coding, and thanks for stopping by!
-</p>
+## 📊 GitHub Stats
+
+![Sean-Maxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean-Maxx&show_icons=true&theme=tokyonight)
+
+---
+
+## ⚡ Fun Quote
+
+> "Talk is cheap. Show me the code." — Linus Torvalds
+
+---
+
+Thanks for visiting! 🌱 Let's build something awesome together.
