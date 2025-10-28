@@ -1,4 +1,4 @@
-# ✨ Kyla P. Manalo ✨
+# ✨ Sean Raiver Eusebio ✨
 ![Cute GIF](https://url-to-your-gif)
 
 🎓 **Associate in Computer Technology (ACT)** | City College of Angeles  
