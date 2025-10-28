@@ -1,5 +1,5 @@
 # 🎹 Sean Raiver Eusebio🎶
-![Piano GIF](https://media.giphy.com/media/3o7aD4cKfRsdn0vL3e/giphy.gif)
+[![Piano GIF](https://media.giphy.com/media/3o7aD4cKfRsdn0vL3e/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTk4M3NhdmNrcXQ3aTBrb3h4anU4dzAwZ3BjODcwbGJucmZoYmdjayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vFtWp05vBYnMQ/giphy.gif)
 
 🎓 **Associate in Computer Technology (ACT)** | City College of Angeles  
 🎼 *Creative • Passionate • Driven by Code & Music*
