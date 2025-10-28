@@ -1,41 +1,51 @@
-<h1 align="center">Hey there! 👋 I'm Sean-Maxx</h1>
+# ✨ Kyla P. Manalo ✨
+🎓 **Associate in Computer Technology (ACT)** | City College of Angeles
 
-<p align="center">
-  🚀 Welcome to my corner of GitHub!<br>
-  🧠 Lifelong learner | 💻 Aspiring dev | 🌐 Tech enthusiast
-</p>
+## 🌸 About Me
+Hey there! I’m Kyla Manalo, currently studying **Associate in Computer Technology (ACT)** at **City College of Angeles**.  
+My course helps me build strong foundations in **computer systems**, **programming**, and **IT problem-solving**.
 
----
+💻 I love exploring technology — from **coding** and **web design** to **database systems** and **networking**.  
+✨ My dream is to become a skilled, creative, and passionate IT professional who brings ideas to life through code.
 
-### 🌟 About Me
+## 🪄 Tech Stack & Skills
+- **Languages**: Python, JavaScript, C++
+- **Web**: HTML, CSS, React.js
+- **Database**: MySQL, MongoDB
+- **Tools**: Git, GitHub, VS Code, Docker
 
-- 🔭 Currently diving deep into the world of **software development**
-- 🌱 Constantly learning new tools, languages, and frameworks
-- 🧩 Passionate about solving problems and building cool things
-- 🎯 Always aiming to grow, improve, and create value
+💡 **Concepts I love working with**:
+- 🧱 Object-Oriented Programming (OOP)
+- 🧮 Data Structures
+- 🌐 Networking
+- 🖥️ System Design
 
----
+## 🌷 My Projects 🌷
 
-### 🛠️ Tech I'm Into
+Here are some of my favorite projects that I’ve worked on:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
----
+### 1. [Project Name](https://github.com/yourusername/project1)
+- **Description**: A brief description of the project.
+- **Technologies Used**: Python, Flask, SQLite
+- **Link**: [GitHub Repository](https://github.com/yourusername/project1)
 
-### 📊 GitHub Stats
+### 2. [Project Name](https://github.com/yourusername/project2)
+- **Description**: A brief description of the project.
+- **Technologies Used**: HTML, CSS, JavaScript, React
+- **Link**: [GitHub Repository](https://github.com/yourusername/project2)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sean-Maxx&show_icons=true&theme=radical" alt="Sean-Maxx's GitHub stats" />
-</p>
+### 3. [Project Name](https://github.com/yourusername/project3)
+- **Description**: A brief description of the project.
+- **Technologies Used**: Node.js, Express, MongoDB
+- **Link**: [GitHub Repository](https://github.com/yourusername/project3)
 
----
+🌼 **Click on a project to explore!** 🌼
 
-### ⚡ Fun Fact
+## 📊 GitHub Stats
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+![Kyla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
 
----
+## 📫 Contact Me
 
-<p align="center">
-  🧠 Stay curious, keep coding, and thanks for stopping by!
-</p>
+- **Email**: kylmanalosbnhs23@gmail.com
+- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
