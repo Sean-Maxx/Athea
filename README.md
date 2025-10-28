@@ -40,19 +40,30 @@ I enjoy creating harmony between **technology and art** — from building code t
 
 ---
 
-### 🎹 Featured Projects — My Digital Compositions
+## 🎹 My Projects 🎹
+Each project feels like composing a new melody — unique, expressive, and fun!  
+Every “key” below plays a part in my coding symphony 🎶
 
 <p align="center">
+  <!-- Left part of the keyboard -->
   <a href="https://github.com/yourusername/project1">
-    <img src="https://media.giphy.com/media/3o7aD4cKfRsdn0vL3e/giphy.gif" width="180" />
+    <img src="https://media.giphy.com/media/3o7aD4cKfRsdn0vL3e/giphy.gif" alt="Project 1" width="160" style="border-radius:10px; margin: 5px;"/>
   </a>
   <a href="https://github.com/yourusername/project2">
-    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180" />
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Project 2" width="160" style="border-radius:10px; margin: 5px;"/>
   </a>
   <a href="https://github.com/yourusername/project3">
-    <img src="https://media.giphy.com/media/26FPqut4s7iM0AQIo/giphy.gif" width="180" />
+    <img src="https://media.giphy.com/media/26FPqut4s7iM0AQIo/giphy.gif" alt="Project 3" width="160" style="border-radius:10px; margin: 5px;"/>
+  </a>
+  <a href="https://github.com/yourusername/project4">
+    <img src="https://media.giphy.com/media/26vUzgRzM4P9I2K7K/giphy.gif" alt="Project 4" width="160" style="border-radius:10px; margin: 5px;"/>
+  </a>
+  <a href="https://github.com/yourusername/project5">
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Project 5" width="160" style="border-radius:10px; margin: 5px;"/>
   </a>
 </p>
+
+<p align="center">✨ <i>Click on a “key” to explore the project’s rhythm!</i> ✨</p>
 
 
 <p align="center">✨ <i>Click a project to listen to its code melody!</i> ✨</p>
