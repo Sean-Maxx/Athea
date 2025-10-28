@@ -1,5 +1,6 @@
 # 🎹 Sean Raiver Eusebio🎶
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNwNmRlYmtoZTR0YTZwMmcwdDNtbjh1ZzlnNDVkcWxnZmp5ZXkyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFtWp05vBYnMQ/giphy.gif
+<img src="https://media.giphy.com/media/3o7aD4cKfRsdn0vL3e/giphy.gif" width="150" />
+
 
 🎓 **Associate in Computer Technology (ACT)** | City College of Angeles  
 🎼 *Creative • Passionate • Driven by Code & Music*
