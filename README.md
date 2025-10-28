@@ -44,15 +44,16 @@ I enjoy creating harmony between **technology and art** — from building code t
 
 <p align="center">
   <a href="https://github.com/yourusername/project1">
-    <img src="https://github.com/yourusername/yourrepo/assets/12345/piano1.gif" alt="Project 1" width="180" style="border-radius: 10px; margin: 10px;" />
+    <img src="https://media.giphy.com/media/3o7aD4cKfRsdn0vL3e/giphy.gif" width="180" />
   </a>
   <a href="https://github.com/yourusername/project2">
-    <img src="https://github.com/yourusername/yourrepo/assets/12345/piano2.gif" alt="Project 2" width="180" style="border-radius: 10px; margin: 10px;" />
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180" />
   </a>
   <a href="https://github.com/yourusername/project3">
-    <img src="https://github.com/yourusername/yourrepo/assets/12345/piano3.gif" alt="Project 3" width="180" style="border-radius: 10px; margin: 10px;" />
+    <img src="https://media.giphy.com/media/26FPqut4s7iM0AQIo/giphy.gif" width="180" />
   </a>
 </p>
+
 
 <p align="center">✨ <i>Click a project to listen to its code melody!</i> ✨</p>
 
