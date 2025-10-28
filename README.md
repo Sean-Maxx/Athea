@@ -39,15 +39,16 @@ Each project feels like composing a new melody — unique, expressive, and fun!
 
 <p align="center">
   <a href="https://github.com/yourusername/project1">
-    <img src="https://media.giphy.com/media/l3vR9O2rJ7Eew5oEw/giphy.gif" alt="Project 1" width="150" />
+    <img src="https://media.giphy.com/media/3o7aD4cKfRsdn0vL3e/giphy.gif" alt="Project 1" width="150" />
   </a>
   <a href="https://github.com/yourusername/project2">
-    <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" alt="Project 2" width="150" />
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Project 2" width="150" />
   </a>
   <a href="https://github.com/yourusername/project3">
-    <img src="https://media.giphy.com/media/xT0xeuOy2Fcl9vDGiA/giphy.gif" alt="Project 3" width="150" />
+    <img src="https://media.giphy.com/media/26FPqut4s7iM0AQIo/giphy.gif" alt="Project 3" width="150" />
   </a>
 </p>
+
 
 🎼 *Click on a project to explore its rhythm!* 🎼
 
