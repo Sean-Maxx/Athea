@@ -7,7 +7,7 @@
 ---
 
 ## 🎶 About Me
-Hey there! I’m **Kyla Manalo**, currently studying **Associate in Computer Technology (ACT)** at **City College of Angeles**.  
+Hey there! I’m **Sean Raiver Eusebio**, currently studying **Associate in Computer Technology (ACT)** at **City College of Angeles**.  
 My course helps me build strong foundations in **computer systems**, **programming**, and **IT problem-solving**.
 
 🎧 I love blending **technology and creativity** — from **coding and web design** to **composing music on piano**.  
